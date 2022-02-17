@@ -1,0 +1,8 @@
+{
+  "name": "oneView",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2a85c0f6"
+}
